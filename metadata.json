@@ -1,9 +1,9 @@
 {
-    "Identifier": "",
-    "Slug": "",
-    "Status": "",
-    "Title": "",
-    "Description": "",
+    "Identifier": "eos7akz",
+    "Slug": "pred-ms",
+    "Status": "In progress",
+    "Title": "PredMS: human liver microsomal stability",
+    "Description": "PredMS classifies compounds as metabolically stable (\u226550% remaining at 30\u2009min) or unstable (<50% remaining at 30\u2009min) in human liver microsomes. The model was trained on an in-house dataset of 1917 compounds (1049 stable and 868 unstable), and validated on a external test dataset of 61 compounds.",
     "Mode": "",
     "Task": [],
     "Input": [],
@@ -12,8 +12,13 @@
     "Output Type": [],
     "Output Shape": "",
     "Interpretation": "",
-    "Tag": [],
-    "Publication": "",
-    "Source Code": "",
-    "License": ""
+    "Tag": [
+        "Metabolism",
+        "Microsomal Stability",
+        "Human",
+        "ADME"
+    ],
+    "Publication": "https://academic.oup.com/bioinformatics/article/38/2/364/6369504",
+    "Source Code": "https://bitbucket.org/krictai/predms/src/master/",
+    "License": "None"
 }
