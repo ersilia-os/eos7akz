@@ -3,7 +3,7 @@
     "Slug": "pred-ms",
     "Status": "In progress",
     "Title": "PredMS: human liver microsomal stability",
-    "Description": "PredMS classifies compounds as metabolically stable (\u226550% remaining at 30\u2009min) or unstable (<50% remaining at 30\u2009min) in human liver microsomes. The model was trained on an in-house dataset of 1917 compounds (1049 stable and 868 unstable), and validated on a external test dataset of 61 compounds.",
+    "Description": "PredMS classifies compounds as metabolically stable (\u226550% remaining at 30\u2009min) or unstable (<50% remaining at 30\u2009min) in human liver microsomes (in vitro assay). The model was trained on an in-house dataset of 1917 compounds (1049 stable and 868 unstable), and validated on a external test dataset of 61 compounds.",
     "Mode": "Pretrained",
     "Task": ["Classification"],
     "Input": ["Compound"],
