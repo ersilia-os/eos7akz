@@ -14,7 +14,7 @@
     "Interpretation": "Probability of a compound being stable (>=0.5: Stable, <0.5: Unstable)",
     "Tag": [
         "Metabolism",
-        "Microsomal Stability",
+        "Microsomal stability",
         "Human",
         "ADME"
     ],
